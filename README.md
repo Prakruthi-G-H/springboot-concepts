@@ -10,3 +10,5 @@ This project is structured to:
 - Strengthen backend fundamentals
 - Practice Spring Boot concept-by-concept
 - Understand layered architecture
+
+Each module focuses on one specific Spring Boot concept and contains working examples.
