@@ -7,3 +7,4 @@ The goal of this repository is to practice and demonstrate core Spring Boot conc
 ## 📌 Purpose of This Repository
 
 This project is structured to:
+- Strengthen backend fundamentals
