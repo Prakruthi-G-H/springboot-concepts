@@ -8,3 +8,4 @@ The goal of this repository is to practice and demonstrate core Spring Boot conc
 
 This project is structured to:
 - Strengthen backend fundamentals
+- Practice Spring Boot concept-by-concept
