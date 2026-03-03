@@ -21,3 +21,4 @@ Each module focuses on one specific Spring Boot concept and contains working exa
 - Spring Data JPA
 - Hibernate
 - MySQL
+- Maven
