@@ -12,3 +12,5 @@ This project is structured to:
 - Understand layered architecture
 
 Each module focuses on one specific Spring Boot concept and contains working examples.
+
+## 🛠 Tech Stack
