@@ -22,3 +22,4 @@ Each module focuses on one specific Spring Boot concept and contains working exa
 - Hibernate
 - MySQL
 - Maven
+- Lombok
