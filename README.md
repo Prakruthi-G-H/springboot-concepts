@@ -16,3 +16,4 @@ Each module focuses on one specific Spring Boot concept and contains working exa
 ## 🛠 Tech Stack
 
 - Java 17
+- Spring Boot
