@@ -14,3 +14,5 @@ This project is structured to:
 Each module focuses on one specific Spring Boot concept and contains working examples.
 
 ## 🛠 Tech Stack
+
+- Java 17
