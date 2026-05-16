@@ -23,6 +23,8 @@ Each module focuses on one specific Spring Boot concept and contains working exa
 - MySQL
 - Maven
 - Lombok
+  
+## 📂 Repository Structure
 
 ## 👩‍💻 Developed By
 
