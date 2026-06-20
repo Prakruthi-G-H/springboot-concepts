@@ -13,6 +13,15 @@ This project is structured to:
 
 Each module focuses on one specific Spring Boot concept and contains working examples.
 
+## 📂 Repository Structure
+
+Spring-Boot-Concepts/
+│
+├── springboot-crud-api/
+├── springboot-jpa/
+├── springboot-mysql/
+└── README.md
+
 ## 🛠 Tech Stack
 
 - Java 17
