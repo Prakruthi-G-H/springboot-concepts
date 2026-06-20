@@ -45,6 +45,15 @@ Spring-Boot-Concepts/
 ✔ MySQL Integration  
 ✔ Layered Architecture (Controller-Service-Repository)
 
+## 🎯 Learning Outcomes
+
+Through this repository, I learned:
+
+- Building RESTful APIs using Spring Boot
+- Connecting applications with MySQL databases
+- Implementing CRUD operations using JPA
+- Following clean layered architecture
+
 ## 👩‍💻 Developed By
 
 **Prakruthi G H**  
