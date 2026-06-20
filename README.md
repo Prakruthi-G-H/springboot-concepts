@@ -39,7 +39,11 @@ Spring-Boot-Concepts/
 ✔ Spring Boot Project Setup  
 ✔ REST APIs (GET, POST, PUT, DELETE)  
 ✔ Request Mapping Annotations  
-
+✔ Dependency Injection  
+✔ Spring Data JPA  
+✔ Hibernate ORM  
+✔ MySQL Integration  
+✔ Layered Architecture (Controller-Service-Repository)
 
 ## 👩‍💻 Developed By
 
