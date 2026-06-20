@@ -33,7 +33,13 @@ Spring-Boot-Concepts/
 - Maven
 - Lombok
   
-## 📂 Repository Structure
+
+## 🚀 Concepts Covered
+
+✔ Spring Boot Project Setup  
+✔ REST APIs (GET, POST, PUT, DELETE)  
+✔ Request Mapping Annotations  
+
 
 ## 👩‍💻 Developed By
 
