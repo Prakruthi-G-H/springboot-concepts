@@ -15,12 +15,18 @@ Each module focuses on one specific Spring Boot concept and contains working exa
 
 ## 📂 Repository Structure
 
+
+```bash
 Spring-Boot-Concepts/
 │
 ├── springboot-crud-api/
 ├── springboot-jpa/
 ├── springboot-mysql/
 └── README.md
+```
+
+---
+
 
 ## 🛠 Tech Stack
 
