@@ -38,6 +38,7 @@ Spring-Boot-Concepts/
 - MySQL
 - Maven
 - Lombok
+- Hibernate ORM
   
 
 ## 🚀 Concepts Covered
