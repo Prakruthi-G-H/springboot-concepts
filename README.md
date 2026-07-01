@@ -60,6 +60,8 @@ Through this repository, I gained practical experience in:
 - Developing RESTful APIs using Spring Boot
 - Performing CRUD operations with Spring Data JPA
 - Connecting Spring Boot applications to MySQL
+- Applying layered architecture for better code organization
+- Building modular and maintainable backend applications
 
 ## 👩‍💻 Developed By
 
