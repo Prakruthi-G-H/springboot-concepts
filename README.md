@@ -55,12 +55,11 @@ Spring-Boot-Concepts/
 
 ## 🎯 Learning Outcomes
 
-Through this repository, I learned:
+Through this repository, I gained practical experience in:
 
-- Building RESTful APIs using Spring Boot
-- Connecting applications with MySQL databases
-- Implementing CRUD operations using JPA
-- Following clean layered architecture
+- Developing RESTful APIs using Spring Boot
+- Performing CRUD operations with Spring Data JPA
+
 
 ## 👩‍💻 Developed By
 
