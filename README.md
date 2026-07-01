@@ -50,6 +50,8 @@ Spring-Boot-Concepts/
 ✔ Hibernate ORM  
 ✔ MySQL Integration  
 ✔ Layered Architecture (Controller-Service-Repository)
+✔ Maven Project Structure
+✔ ResponseEntity
 
 ## 🎯 Learning Outcomes
 
