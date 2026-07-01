@@ -6,10 +6,10 @@ The goal of this repository is to practice and demonstrate core Spring Boot conc
 
 ## 📌 Purpose of This Repository
 
-This project is structured to:
 - Strengthen backend fundamentals
-- Practice Spring Boot concept-by-concept
+- Practice Spring Boot concepts through hands-on examples
 - Understand layered architecture
+- Build RESTful web services using Spring Boot
 
 Each module focuses on one specific Spring Boot concept and contains working examples.
 
