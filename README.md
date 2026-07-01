@@ -34,7 +34,6 @@ Spring-Boot-Concepts/
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- Hibernate
 - MySQL
 - Maven
 - Lombok
