@@ -63,6 +63,8 @@ Through this repository, I gained practical experience in:
 - Applying layered architecture for better code organization
 - Building modular and maintainable backend applications
 
+## ✨ Features
+
 ## 👩‍💻 Developed By
 
 **Prakruthi G H**  
