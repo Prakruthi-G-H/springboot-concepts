@@ -67,7 +67,7 @@ Through this repository, I gained practical experience in:
 
 - Clean project structure
 - Concept-wise implementation
-
+- Easy-to-understand examples
   
 ## 👩‍💻 Developed By
 
