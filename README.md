@@ -69,6 +69,7 @@ Through this repository, I gained practical experience in:
 - Concept-wise implementation
 - Easy-to-understand examples
 - MySQL database integration
+- RESTful API development
   
 ## 👩‍💻 Developed By
 
