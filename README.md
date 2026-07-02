@@ -66,7 +66,9 @@ Through this repository, I gained practical experience in:
 ## ✨ Features
 
 - Clean project structure
+- Concept-wise implementation
 
+  
 ## 👩‍💻 Developed By
 
 **Prakruthi G H**  
