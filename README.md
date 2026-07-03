@@ -1,8 +1,8 @@
 # Spring Boot Concepts 
 
-This repository contains concept-wise Spring Boot examples built while learning backend development.
+This repository is dedicated to learning Spring Boot through concept-wise implementations.
 
-The goal of this repository is to practice and demonstrate core Spring Boot concepts including REST APIs, JPA, Validation, Exception Handling, and MySQL integration
+It will include hands-on examples covering core Spring Boot concepts such as REST APIs, Spring Data JPA, MySQL integration, Validation, Exception Handling, and more.
 
 ## 📌 Purpose of This Repository
 
