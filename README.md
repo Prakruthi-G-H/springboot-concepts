@@ -58,13 +58,14 @@ Spring-Boot-Concepts/
 
 The objective of this repository is to strengthen my backend development skills by implementing Spring Boot concepts one module at a time while following clean coding practices and layered architecture.
 
-## ✨ Features
+## ✨ Planned Features
 
+- Concept-wise Spring Boot modules
 - Clean project structure
-- Concept-wise implementation
-- Easy-to-understand examples
-- MySQL database integration
-- RESTful API development
+- RESTful API examples
+- MySQL integration
+- Layered architecture
+- Hands-on practice projects
   
 ## 👩‍💻 Developed By
 
