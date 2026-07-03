@@ -54,15 +54,9 @@ Spring-Boot-Concepts/
 - [ ] Maven Project Structure
 - [ ] ResponseEntity
 
-## 🎯 Learning Outcomes
+## 🎯 Objective
 
-Through this repository, I gained practical experience in:
-
-- Developing RESTful APIs using Spring Boot
-- Performing CRUD operations with Spring Data JPA
-- Connecting Spring Boot applications to MySQL
-- Applying layered architecture for better code organization
-- Building modular and maintainable backend applications
+The objective of this repository is to strengthen my backend development skills by implementing Spring Boot concepts one module at a time while following clean coding practices and layered architecture.
 
 ## ✨ Features
 
