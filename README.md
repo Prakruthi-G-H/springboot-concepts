@@ -40,18 +40,19 @@ Spring-Boot-Concepts/
 - Hibernate ORM
   
 
+
 ## 🚀 Concepts Covered
 
-✔ Spring Boot Project Setup  
-✔ REST APIs (GET, POST, PUT, DELETE)  
-✔ Request Mapping Annotations  
-✔ Dependency Injection  
-✔ Spring Data JPA  
-✔ Hibernate ORM  
-✔ MySQL Integration  
-✔ Layered Architecture (Controller-Service-Repository)
-✔ Maven Project Structure
-✔ ResponseEntity
+- [x] Spring Boot Project Setup
+- [x] REST APIs (GET, POST, PUT, DELETE)
+- [x] Request Mapping Annotations
+- [x] Dependency Injection
+- [x] Spring Data JPA
+- [x] Hibernate ORM
+- [x] MySQL Integration
+- [x] Layered Architecture (Controller-Service-Repository)
+- [x] Maven Project Structure
+- [x] ResponseEntity
 
 ## 🎯 Learning Outcomes
 
