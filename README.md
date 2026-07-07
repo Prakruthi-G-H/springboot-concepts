@@ -11,7 +11,7 @@ It will include hands-on examples covering core Spring Boot concepts such as RES
 - Understand layered architecture
 - Build RESTful web services using Spring Boot
 
-Each module focuses on one specific Spring Boot concept and contains working examples.
+Each module will focus on a specific Spring Boot concept and include practical examples for better understanding.
 
 ## 📂 Repository Structure
 
