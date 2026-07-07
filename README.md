@@ -48,9 +48,9 @@ Spring-Boot-Concepts/
 - [x] Spring Data JPA
 - [x] Hibernate ORM
 - [x] MySQL Integration
-- [ ] Layered Architecture (Controller-Service-Repository)
-- [ ] Maven Project Structure
-- [ ] ResponseEntity
+- [x] Layered Architecture (Controller-Service-Repository)
+- [x] Maven Project Structure
+- [x] ResponseEntity
 
 ## 🎯 Objective
 
