@@ -28,7 +28,7 @@ Spring-Boot-Concepts/
 
 ## 🛠 Tech Stack
 
-- Java 17
+- Java
 - Spring Boot
 - Spring Web
 - Spring Data JPA
