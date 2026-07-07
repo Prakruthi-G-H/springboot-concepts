@@ -45,9 +45,9 @@ Spring-Boot-Concepts/
 - [x] REST APIs (GET, POST, PUT, DELETE)
 - [x] Request Mapping Annotations
 - [x] Dependency Injection
-- [ ] Spring Data JPA
-- [ ] Hibernate ORM
-- [ ] MySQL Integration
+- [x] Spring Data JPA
+- [x] Hibernate ORM
+- [x] MySQL Integration
 - [ ] Layered Architecture (Controller-Service-Repository)
 - [ ] Maven Project Structure
 - [ ] ResponseEntity
