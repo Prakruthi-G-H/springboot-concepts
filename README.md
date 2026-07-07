@@ -41,7 +41,7 @@ Spring-Boot-Concepts/
 
 ## 🚀 Concepts to be Covered
 
-- [ ] Spring Boot Project Setup
+- [x] Spring Boot Project Setup
 - [ ] REST APIs (GET, POST, PUT, DELETE)
 - [ ] Request Mapping Annotations
 - [ ] Dependency Injection
