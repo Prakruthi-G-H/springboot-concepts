@@ -19,10 +19,8 @@ Each module will focus on a specific Spring Boot concept and include practical e
 ```bash
 Spring-Boot-Concepts/
 │
-├── springboot-crud-api/
-├── springboot-jpa/
-├── springboot-mysql/
-└── README.md
+├── README.md
+└── (Concept modules will be added as development progresses)
 ```
 
 ---
